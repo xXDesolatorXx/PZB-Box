@@ -22,7 +22,7 @@ Why do we need a Remote Testing Unit?
 Normally we would use a wired remote with three buttons to test the funcionality of the train protection system but in some cases it is a real hassle for the people working on it
 cables getting tangled, getting the cables inside and out of the cab and generally moving the testing equipment from one cab to the other.
 
-# What can it be used for?
+# Which Systems can be testes?
 
 The RTU can be used for normal LZB80/PZB90 Systems like the normal LZB80, LZB80E or EBICAB train protection systems found in nearly all german trains.
 
